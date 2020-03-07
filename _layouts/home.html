@@ -18,7 +18,7 @@ layout: default
         <span class="post-meta">{{ post.date | date: date_format }}</span>
 
         <h2>
-          <a class="post-link" href="{{ post.url | absolute_url }}" title="{{ post.title }}">{{ post.title | escape }}</a>
+          <a class="post-link" href="{{ post.permalink | absolute_url }}" title="{{ post.title }}">{{ post.title | escape }}</a>
         </h2>
 
         {{ post.excerpt | markdownify | truncatewords: 30 }}
