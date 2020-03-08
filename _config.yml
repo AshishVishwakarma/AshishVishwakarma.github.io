@@ -22,7 +22,7 @@ twitter_username: aryanroyal
 github_username:  AshV
 
 # Build settings
-markdown: kramdown
+# markdown: kramdown
 theme:
 plugins:
   - jekyll-feed
