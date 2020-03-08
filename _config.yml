@@ -16,8 +16,8 @@
 title: Ashish Vishwakarma
 email: Hello@AshishVishwakarma.com
 description: Devited To Code
-baseurl: "/posts"
-url: "https://ashishvishwakarma.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: ""
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: aryanroyal
 github_username:  AshV
 
